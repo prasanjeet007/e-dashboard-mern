@@ -1,8 +1,16 @@
 .navbar {
-    padding: 5px;
-    margin: 0px;
-    background-color: aquamarine;
+  padding: 5px;
+  margin: 0px;
+  background-color: aquamarine;
+  display: flex;
+  list-style-type: none;
+  justify-content:flex-start;
 }
 a {
-    color: #1512ee;
+  color: #1512ee;
 }
+
+.navbar li {
+    padding: 20px;
+  }
+  

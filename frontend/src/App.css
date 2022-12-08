@@ -23,15 +23,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-.navbar {
-  display: flex;
-  list-style-type: none;
-  justify-content: flex-end;
-}
-
-.navbar li {
-  padding: 20px;
-}
 
 .App-link {
   color: #61dafb;
